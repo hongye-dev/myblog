@@ -11,7 +11,7 @@ colorama==0.3.9
 cycler==0.10.0
 decorator==4.2.1
 distlib==0.3.0
-Django==2.2.3
+Django==2.2.10
 django-markdown-deux==1.0.5
 emoji==0.5.0
 entrypoints==0.2.3
